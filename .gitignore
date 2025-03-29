@@ -1,5 +1,3 @@
-# Ignorer les fichiers de cache et les checkpoints Jupyter
-.ipynb_checkpoints/
 
 # Ignorer les fichiers de log et les sorties de Jupyter
 *.log
