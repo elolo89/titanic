@@ -23,7 +23,6 @@ build/
 *.whl
 
 # Ignorer les fichiers de configuration des IDE et éditeurs
-.vscode/
 .idea/
 *.swp
 
